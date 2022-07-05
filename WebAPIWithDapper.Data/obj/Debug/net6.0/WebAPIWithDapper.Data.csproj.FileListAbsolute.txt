@@ -1,0 +1,15 @@
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\bin\Debug\net6.0\WebAPIWithDapper.Data.deps.json
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\bin\Debug\net6.0\WebAPIWithDapper.Data.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\bin\Debug\net6.0\WebAPIWithDapper.Data.pdb
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\bin\Debug\net6.0\WebAPIWithDapper.Core.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\bin\Debug\net6.0\WebAPIWithDapper.Core.pdb
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.csproj.AssemblyReference.cache
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.AssemblyInfoInputs.cache
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.AssemblyInfo.cs
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.csproj.CoreCompileInputs.cache
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.csproj.CopyComplete
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\refint\WebAPIWithDapper.Data.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\WebAPIWithDapper.Data.pdb
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Data\obj\Debug\net6.0\ref\WebAPIWithDapper.Data.dll

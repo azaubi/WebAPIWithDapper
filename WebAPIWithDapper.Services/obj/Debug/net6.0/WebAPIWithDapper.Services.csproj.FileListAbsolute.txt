@@ -1,0 +1,17 @@
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\bin\Debug\net6.0\WebAPIWithDapper.Services.deps.json
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\bin\Debug\net6.0\WebAPIWithDapper.Services.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\bin\Debug\net6.0\WebAPIWithDapper.Services.pdb
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\bin\Debug\net6.0\WebAPIWithDapper.Core.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\bin\Debug\net6.0\WebAPIWithDapper.Data.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\bin\Debug\net6.0\WebAPIWithDapper.Core.pdb
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\bin\Debug\net6.0\WebAPIWithDapper.Data.pdb
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.csproj.AssemblyReference.cache
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.AssemblyInfoInputs.cache
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.AssemblyInfo.cs
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.csproj.CoreCompileInputs.cache
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.csproj.CopyComplete
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\refint\WebAPIWithDapper.Services.dll
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\WebAPIWithDapper.Services.pdb
+C:\Users\AlexZaubi\source\repos\sandbox\WebAPIWithDapper\WebAPIWithDapper.Services\obj\Debug\net6.0\ref\WebAPIWithDapper.Services.dll

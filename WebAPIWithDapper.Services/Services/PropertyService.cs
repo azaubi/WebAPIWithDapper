@@ -2,7 +2,7 @@
 using WebAPIWithDapper.Core.Dtos;
 using WebAPIWithDapper.Data.Repos;
 
-namespace WebAPIWithDapper.Services
+namespace WebAPIWithDapper.Services.Services
 {
     public interface IPropertyService
     {

@@ -188,7 +188,6 @@
         "dependencies": {
           "Dapper": "2.0.123",
           "Microsoft.Extensions.Configuration": "6.0.1",
-          "Microsoft.Extensions.Options": "6.0.0",
           "System.Data.SqlClient": "4.8.3",
           "WebAPIWithDapper.Core": "1.0.0"
         },

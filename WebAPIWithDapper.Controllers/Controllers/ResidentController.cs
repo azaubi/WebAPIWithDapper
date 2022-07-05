@@ -5,15 +5,15 @@ namespace WebAPIWithDapper.Controllers.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class PropertyController : ControllerBase
+    public class ResidentController : ControllerBase
     {
-        private readonly ILogger<PropertyController> _logger;
-        private readonly IPropertyService _propertyService;
+        private readonly ILogger<ResidentController> _logger;
+        private readonly IResidentService _residentService;
 
-        public PropertyController(ILogger<PropertyController> logger, IPropertyService propertyService)
+        public ResidentController(ILogger<ResidentController> logger, IResidentService residentService)
         {
             _logger = logger;
-            _propertyService = propertyService;
+            _residentService = residentService;
         }
 
         [HttpGet]
@@ -21,14 +21,14 @@ namespace WebAPIWithDapper.Controllers.Controllers
         {
             try
             {
-                return Ok(await _propertyService.Get());
+                return Ok(await _residentService.Get());
             }
             catch (Exception ex)
             {
                 _logger.Log(LogLevel.Error, $"Error Encountered: {ex}");
                 throw;
             }
-            
+
         }
     }
 }

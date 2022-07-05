@@ -14,6 +14,7 @@ namespace WebAPIWithDapper.Services.Mapper
         public void Initialize()
         {
             CreateMap<Property, PropertyDto>().ReverseMap();
+            CreateMap<Resident, ResidentDto>().ReverseMap();
         }
     }
 }
